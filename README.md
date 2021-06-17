@@ -8,7 +8,7 @@ Cleaned the data using Excel, Performed data exploration using SQL Server, Conne
 
 ## Tableau Viz
 
-Link - [Zomato Data Analysis](https://public.tableau.com/views/ZomatoAnalysis_16239597862090/ZomatoDataAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
+Link - [Zomato Data Analysis](https://public.tableau.com/app/profile/keyur6346/viz/ZomatoAnalysis_16239597862090/ZomatoDataAnalysis)
 
 ** Please view the dashboard on a full screen.
 
