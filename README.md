@@ -2,9 +2,9 @@
 
 Data Cleaning, Exploration, getting key insights from the Zomato restaurants data.
 
-Azure Data Studio, SQL Server, Tableau.
+Excel, Azure Data Studio, SQL Server, Tableau.
 
-Connected the tableau to the Sql server and created a extract to upload it to the tableau public.
+Cleaned the data using Excel, Performed data exploration using SQL Server, Connected the tableau to the Sql server and created a extract to publish it to the tableau public.
 
 ## Tableau Viz
 
