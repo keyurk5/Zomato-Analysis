@@ -9,6 +9,7 @@ Connected the tableau to the Sql server and created a extract to upload it to th
 ## Tableau Viz
 
 Link - [Zomato Data Analysis](https://public.tableau.com/views/ZomatoAnalysis_16239597862090/ZomatoDataAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 ** Please view the dashboard on a full screen.
 
 ## Copyright Disclaimer
